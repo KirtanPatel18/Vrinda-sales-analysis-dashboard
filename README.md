@@ -32,7 +32,9 @@ This project focuses on analyzing sales data using Microsoft Excel to extract me
 
 ## 📷 Dashboard Preview
 
-[(Add your screenshot here)](https://github.com/KirtanPatel18/DATA-ANALYTICS-PROJECTS/blob/main/Screenshot%202026-03-30%20002536.png)
+## 📷 Dashboard Preview
+
+![Dashboard](/Screenshot%202026-03-30%20002536.png)
 
 ## ✅ Conclusion
 
